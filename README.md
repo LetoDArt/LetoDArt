@@ -41,4 +41,12 @@
  <img alt="Kotlin Logo" height="40" width="40" src="assets/kotlin-logo-512.svg">
 </div>
 
-##
+## Contacts
+
+<div style="display: flex; align-items: center; gap: 12px;"> 
+  <a href="https://www.linkedin.com/in/vgoncharoff/" target="_blank"><img src="./assets/linkedin.png" target="_blank" height="50"></a> 
+  <a href = "mailto:letodart2077@gmail.com"><img src="./assets/mailto.png" height="56" target="_blank"></a>
+  <a href="https://t.me/LetoDArt" target="_blank"><img src="./assets/telegram.png" height="50" target="_blank"></a>
+
+[//]: # (  <a href="https://www.instagram.com/8_leto_8/" target="_blank"><img src="./assets/insta.png" height="50" target="_blank"></a>)
+</div>
