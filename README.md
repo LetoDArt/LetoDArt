@@ -5,7 +5,6 @@
 - 👨‍💻 Main expertise in TypeScript, JavaScript, Node.js, React, SCSS, Express, Nest.js, PostgresQL.
 - 🌱 Currently, learning Python, Django and Kotlin.
 - 🔭 Building apps for Web.
-- 📫 How to reach me: [letodart2077@gmail.com](mailto:letodart2077@gmail.com)
 ##
 
 <div align="center">
@@ -50,3 +49,5 @@
 
 [//]: # (  <a href="https://www.instagram.com/8_leto_8/" target="_blank"><img src="./assets/insta.png" height="50" target="_blank"></a>)
 </div>
+
+##
