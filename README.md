@@ -49,5 +49,3 @@
 
 [//]: # (  <a href="https://www.instagram.com/8_leto_8/" target="_blank"><img src="./assets/insta.png" height="50" target="_blank"></a>)
 </div>
-
-##
