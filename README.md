@@ -9,19 +9,19 @@
 
 <div align="center">
   <a href="https://github.com/LetoDArt">
-  <img alt="contribution graph" width="860" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LetoDArt&theme=calm" />
+  <img alt="contribution graph" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LetoDArt&theme=calm" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/LetoDArt">
-  <img alt="Stats graph" height="201px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LetoDArt&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img alt="Commits graph" height="201px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetoDArt&show_icons=true&theme=calm"/>
+  <img alt="Stats graph" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LetoDArt&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img alt="Commits graph" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetoDArt&show_icons=true&theme=calm"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/LetoDArt">
-  <img alt="contributions stat" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=LetoDArt&show_icons=true&theme=calm&hide_border=true"/>
-  <img alt="Used languages graph" height="185"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LetoDArt&layout=compact&langs_count=10&theme=calm&hide_border=true"/>
+  <img alt="contributions stat" height="166" src="https://github-readme-streak-stats.herokuapp.com/?user=LetoDArt&show_icons=true&theme=calm&hide_border=true"/>
+  <img alt="Used languages graph" height="166"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LetoDArt&layout=compact&langs_count=10&theme=calm&hide_border=true"/>
   </a>
 </div>
 
