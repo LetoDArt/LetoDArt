@@ -20,7 +20,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/LetoDArt">
-  <img alt="contributions stat" height="166" src="https://github-readme-streak-stats.herokuapp.com/?user=LetoDArt&show_icons=true&theme=calm&hide_border=true"/>
+  <img alt="contributions stat" height="166" src="https://streak-stats.demolab.com/?user=LetoDArt&show_icons=true&theme=calm&hide_border=true"/>
   <img alt="Used languages graph" height="166"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LetoDArt&layout=compact&langs_count=10&theme=calm&hide_border=true"/>
   </a>
 </div>
